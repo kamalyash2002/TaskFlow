@@ -15,5 +15,3 @@ Introducing TaskFlow: Your Ultimate Todo App Powered by Django and ReactJS.
 
 #Screenshots
 
-<img src="Screenshot 2023-06-13 at 22-53-40 React App.png" alt="Img1" width="400">
-<img src="h2.jpg" alt="Img2" width="400">
